@@ -1,0 +1,24 @@
+{
+  "name": "beem_sass-challenge",
+  "version": "1.0.0",
+  "description": "Challenge BEM and Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RoiFuries/challenge-CSS-02.git"
+  },
+  "keywords": [
+    "SASS",
+    "Pltazi",
+    "BEM"
+  ],
+  "author": "RoiFuries roi.furies@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoiFuries/challenge-CSS-02/issues"
+  },
+  "homepage": "https://github.com/RoiFuries/challenge-CSS-02#readme"
+}
